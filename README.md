@@ -23,6 +23,13 @@
 
 <td><a href="https://github.com/Hack012"><div align=center>@syc9811</div></a></td>
 
+</tr>
+</tbody>
+</table>
+
+<br><br><br>
+
+
 
 # 성적 예측 모델 개발 프로젝트
 
