@@ -52,11 +52,9 @@
   **[Student Alcohol Consumption]**
 ### **데이터 출처:**
 [https://www.kaggle.com/datasets/uciml/student-alcohol-consumption/data]
-
-  
-
+### **데이터 내용**
   - 포함된 주요 변수: 학생의 시험 점수, 출석률, 과제 점수, 수업 참여도 등.
-  - 데이터 크기: 총 XX명의 학생 데이터, YY개의 변수.
+  - 데이터 크기: 총 395명의 학생 데이터, 33개의 변수.
   
 - **데이터 전처리 과정:**
   - **결측치 처리:** 결측값이 포함된 변수의 평균 대치 및 제거.
