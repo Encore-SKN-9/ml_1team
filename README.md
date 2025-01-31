@@ -50,7 +50,9 @@
 ## **데이터셋 개요:**
 ### **데이터명:**
   **[Student Alcohol Consumption(kaggle)]**
-  - https://www.kaggle.com/datasets/uciml/student-alcohol-consumption/data
+### **데이터 출처:**
+https://www.kaggle.com/datasets/uciml/student-alcohol-consumption/data
+
   
 
   - 포함된 주요 변수: 학생의 시험 점수, 출석률, 과제 점수, 수업 참여도 등.
