@@ -5,6 +5,9 @@
 
 학업과 음주의 균형을 맞추자는 의미를 가짐
 
+
+
+
 <table align=center>
 <tbody>
 <tr>
