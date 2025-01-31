@@ -49,9 +49,9 @@
 # 3. 사용한 데이터셋 개요 및 전처리 과정
 ## **데이터셋 개요:**
 ### **데이터명:**
-  **[Student Alcohol Consumption(kaggle)]**
+  **[Student Alcohol Consumption]**
 ### **데이터 출처:**
-https://www.kaggle.com/datasets/uciml/student-alcohol-consumption/data
+[https://www.kaggle.com/datasets/uciml/student-alcohol-consumption/data]
 
   
 
