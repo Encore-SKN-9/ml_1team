@@ -49,6 +49,8 @@
 ## 3. 사용한 데이터셋 개요 및 전처리 과정
 - **데이터셋 개요:**
   - [Student Alcohol Consumption(kaggle)]
+  -      https://www.kaggle.com/datasets/uciml/student-alcohol-consumption/data
+  
 
   - 포함된 주요 변수: 학생의 시험 점수, 출석률, 과제 점수, 수업 참여도 등.
   - 데이터 크기: 총 XX명의 학생 데이터, YY개의 변수.
