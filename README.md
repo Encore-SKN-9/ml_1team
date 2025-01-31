@@ -48,7 +48,7 @@
 
 # 3. 사용한 데이터셋 개요 및 전처리 과정
 ## **데이터셋 개요:**
-### ** 데이터명:**
+### **데이터명:**
   **[Student Alcohol Consumption(kaggle)]**
   - https://www.kaggle.com/datasets/uciml/student-alcohol-consumption/data
   
