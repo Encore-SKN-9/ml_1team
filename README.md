@@ -5,6 +5,22 @@
 
 학업과 음주의 균형을 맞추자는 의미를 가짐
 
+<table align=center>
+<tbody>
+<tr>
+<td align=center><b>김도연</b></td>
+<td align=center><b>박주은</b></td>
+<td align=center><b>서예찬</b></td>
+
+</tr>
+
+<tr>
+<td><a href="https://github.com/youngseo98"><div align=center>@doyeon158</div></a></td>
+<td><a href="https://github.com/yujitaeng"><div align=center>@pprain1999</div></a></td>
+
+<td><a href="https://github.com/Hack012"><div align=center>@syc9811</div></a></td>
+
+
 # 성적 예측 모델 개발 프로젝트
 
 ## 1. 프로젝트 주제
