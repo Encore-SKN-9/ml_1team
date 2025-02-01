@@ -66,8 +66,8 @@
 
 ## 4. 사용한 모델과 학습 성능 측정 결과
 - **모델 개요:**
-  - 사용된 모델: 선형 회귀, 랜덤 포레스트, XGBoost 등.
-  - 주요 하이퍼파라미터 튜닝 과정 설명.
+  - 사용된 모델: 선형 회귀, 랜덤 포레스트, XGBoost, LIGHTFGBM, Gradient Boosting,HistGradientBoosting
+   
 
 - **성능 평가 결과:**
   - 사용된 평가 지표: RMSE, MAE, R² 등.
