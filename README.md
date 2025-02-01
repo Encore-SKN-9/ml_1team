@@ -58,13 +58,13 @@
   
 - **데이터 전처리 과정:**
   - **컬럼확인**
-  -
+  
 
 
 
 
 
-![columns](https://github.com/user-attachments/assets/19c7dea8-5fad-4f02-ac0d-20baf6a43260)
+  -![columns](https://github.com/user-attachments/assets/19c7dea8-5fad-4f02-ac0d-20baf6a43260)
 
   - **결측치 처리:**
   - 
