@@ -57,7 +57,7 @@
   - 데이터 크기: 총 395명의 학생 데이터, 33개의 변수.
   
 - **데이터 전처리 과정:**
-  - **컬럼확인**
+ - **컬럼확인**
   
 
 
@@ -66,9 +66,24 @@
 
  ![columns](https://github.com/user-attachments/assets/19c7dea8-5fad-4f02-ac0d-20baf6a43260)
 
-  - **결측치 처리:**
- 
-  - **이상치 처리:** 분포 분석을 통해 이상치 탐지 및 제거.
+  - **결측치 및 이상치 처리:**
+    ![G1hist](https://github.com/user-attachments/assets/63ac3f3d-8445-4e91-b597-4ef1ddbcf170)
+
+    
+    ![G2hist](https://github.com/user-attachments/assets/886f7137-ae27-421e-b4be-ba57e8f48f27)
+
+  
+  
+    ![G3hist](https://github.com/user-attachments/assets/83614fb3-e85f-4999-becf-8fbd67dc024c)
+
+  
+  
+  
+  
+  
+  
+  
+  
   - **스케일링:** 모델 학습 성능 향상을 위해 변수 정규화/표준화.
   - **특성 선택:** 주요 변수(Feature)만을 선정하여 데이터 차원 축소.
 
