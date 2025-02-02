@@ -64,10 +64,10 @@
 
 
 
-  -![columns](https://github.com/user-attachments/assets/19c7dea8-5fad-4f02-ac0d-20baf6a43260)
+ ![columns](https://github.com/user-attachments/assets/19c7dea8-5fad-4f02-ac0d-20baf6a43260)
 
   - **결측치 처리:**
-  - 
+ 
   - **이상치 처리:** 분포 분석을 통해 이상치 탐지 및 제거.
   - **스케일링:** 모델 학습 성능 향상을 위해 변수 정규화/표준화.
   - **특성 선택:** 주요 변수(Feature)만을 선정하여 데이터 차원 축소.
