@@ -67,6 +67,12 @@
  ![columns](https://github.com/user-attachments/assets/19c7dea8-5fad-4f02-ac0d-20baf6a43260)
 
   - **결측치 및 이상치 처리:**
+
+
+
+
+
+
     ![G1hist](https://github.com/user-attachments/assets/63ac3f3d-8445-4e91-b597-4ef1ddbcf170)
 
     
