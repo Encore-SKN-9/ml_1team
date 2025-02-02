@@ -83,9 +83,6 @@
     ![G3hist](https://github.com/user-attachments/assets/83614fb3-e85f-4999-becf-8fbd67dc024c)
 
   
-  
-  
-  ![Gmean hist](https://github.com/user-attachments/assets/4d32e0d6-8952-47bc-b0dd-949a8882b1e8)
 
 
 
