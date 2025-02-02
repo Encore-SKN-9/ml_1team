@@ -67,7 +67,7 @@
  ![columns](https://github.com/user-attachments/assets/19c7dea8-5fad-4f02-ac0d-20baf6a43260)
 
   - **결측치 및 이상치 처리:**
-
+     - 수치형 데이터 확인
 
 
 
@@ -85,8 +85,13 @@
   
   
   
-  
-  
+  ![Gmean hist](https://github.com/user-attachments/assets/4d32e0d6-8952-47bc-b0dd-949a8882b1e8)
+
+
+
+
+
+  성적에대한 데이터를 수치화 해본결과 성적이 0점인 이상치 데이터가 발생하여 0점인 데이터를 모두삭제함
   
   
   
