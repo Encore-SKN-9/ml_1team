@@ -92,6 +92,27 @@
 
 
   성적에대한 데이터를 수치화 해본결과 성적이 0점인 이상치 데이터가 발생하여 0점인 데이터를 모두삭제함
+
+
+
+
+
+![Gmeanheatmap](https://github.com/user-attachments/assets/e5a226cd-549c-436a-be7c-2fb330b3b77b)
+
+
+
+
+
+
+
+
+![Gmeanhist](https://github.com/user-attachments/assets/de3f151f-efc5-45f3-87d1-04e878aa36b8)
+
+
+
+
+
+  
   
   
   
